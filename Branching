@@ -1,0 +1,11 @@
+#To demonstrate if and if-else
+a=10
+b=15
+
+if a%2 ==0:
+    print("Even number")
+if b%2 ==0:
+    print("Even number")
+else:
+    print("odd number")
+    
